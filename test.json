@@ -1,0 +1,1500 @@
+{
+    "result": {
+        "songs": [
+            {
+                "id": 66282,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 6491,
+                    "name": "U-87",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1118073600000,
+                    "size": 13,
+                    "copyrightId": 7003,
+                    "status": 3,
+                    "picId": 109951163520311170,
+                    "mark": 0
+                },
+                "duration": 283520,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 303285,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 26191007,
+                "name": "浮夸 (Live)",
+                "artists": [
+                    {
+                        "id": 3692,
+                        "name": "林志炫",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 2415003,
+                    "name": "我是歌手第一季 总决赛",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1365696000007,
+                    "size": 18,
+                    "copyrightId": 12009,
+                    "status": 1,
+                    "picId": 2525578209026524,
+                    "mark": 0
+                },
+                "duration": 288000,
+                "copyrightId": 404023,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 64453,
+                "name": "浮夸(Live)",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 6365,
+                    "name": "DUO 陈奕迅2010演唱会",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1277654400000,
+                    "size": 38,
+                    "copyrightId": 7003,
+                    "status": 3,
+                    "picId": 6636652185368776,
+                    "mark": 0
+                },
+                "duration": 275000,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 372328,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 64886,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 6394,
+                    "name": "Solidays 新曲+精选",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1219680000000,
+                    "size": 27,
+                    "copyrightId": 7003,
+                    "status": 3,
+                    "picId": 109951163381539470,
+                    "mark": 0
+                },
+                "duration": 285000,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 303285,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 34916314,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 2692225,
+                    "name": " 热门华语61",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1356969600004,
+                    "size": 31,
+                    "copyrightId": 0,
+                    "status": 2,
+                    "picId": 3285340745280610,
+                    "mark": 0
+                },
+                "duration": 284212,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [
+                    "2014MAMA现场版"
+                ],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 29932209,
+                "name": "浮夸 (live)",
+                "artists": [
+                    {
+                        "id": 5425,
+                        "name": "王祖蓝",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 3087124,
+                    "name": "2015浙江卫视跨年演唱会",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1419955200007,
+                    "size": 35,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 2531075770073370,
+                    "mark": 0
+                },
+                "duration": 281000,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 65819,
+                "name": "浮夸 (Live)",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 6454,
+                    "name": "Get A Life 演唱会",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1143849600000,
+                    "size": 37,
+                    "copyrightId": 7003,
+                    "status": 3,
+                    "picId": 109951163104933980,
+                    "mark": 0
+                },
+                "duration": 350000,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 1141,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 109662,
+                "name": "浮夸 (Live)",
+                "artists": [
+                    {
+                        "id": 3692,
+                        "name": "林志炫",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 10868,
+                    "name": "ONE take 公视音乐万万岁电视演唱会",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1293984000000,
+                    "size": 30,
+                    "copyrightId": 14028,
+                    "status": 1,
+                    "picId": 109951165625488420,
+                    "mark": 0
+                },
+                "duration": 295000,
+                "copyrightId": 14028,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 1808882769,
+                "name": "浮夸（钢琴版 ）（翻自 群星）",
+                "artists": [
+                    {
+                        "id": 46357927,
+                        "name": "夏逸天",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 120766724,
+                    "name": "应无所住",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1608807113209,
+                    "size": 21,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951165565102960,
+                    "mark": 0
+                },
+                "duration": 275992,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 128
+            },
+            {
+                "id": 1395295067,
+                "name": "浮夸（翻自 陈奕迅） ",
+                "artists": [
+                    {
+                        "id": 12183330,
+                        "name": "笛呆子囚牛",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 82164655,
+                    "name": "【囚牛】浮夸 (青筋已爆炸 | 在高音和破音边缘互相试探)",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1570294413575,
+                    "size": 1,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951164410843250,
+                    "mark": 0
+                },
+                "duration": 286390,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 29463661,
+                "name": "浮夸(国语版)",
+                "artists": [
+                    {
+                        "id": 122455,
+                        "name": "群星",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 3029113,
+                    "name": "热门华语243",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1388505600004,
+                    "size": 39,
+                    "copyrightId": 0,
+                    "status": 2,
+                    "picId": 528865093144433,
+                    "mark": 0
+                },
+                "duration": 294000,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 524288
+            },
+            {
+                "id": 29005931,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 5798,
+                        "name": "小肥",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    {
+                        "id": 2117,
+                        "name": "侧田",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 2975347,
+                    "name": "小肥&Friends Live 2009",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1251907200007,
+                    "size": 24,
+                    "copyrightId": 13009,
+                    "status": 3,
+                    "picId": 6620159510910860,
+                    "mark": 0
+                },
+                "duration": 272000,
+                "copyrightId": 13009,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 1,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 1808513425,
+                "name": "浮夸（唢呐版）（翻自 群星）",
+                "artists": [
+                    {
+                        "id": 34230281,
+                        "name": "林丶大力",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 94329608,
+                    "name": "林丶大力2",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1598201133600,
+                    "size": 15,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951165263975090,
+                    "mark": 0
+                },
+                "duration": 281750,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 14224275,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 131200
+            },
+            {
+                "id": 1807738079,
+                "name": "浮夸（翻自 林志炫）",
+                "artists": [
+                    {
+                        "id": 46279495,
+                        "name": "STAR__ZXP",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 120855985,
+                    "name": "2021",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1608883181610,
+                    "size": 50,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951165566907780,
+                    "mark": 0
+                },
+                "duration": 290730,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 128
+            },
+            {
+                "id": 489506387,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 881021,
+                        "name": "GOT7",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 34407341,
+                    "name": "Covers & Unreleased Songs",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1388505600000,
+                    "size": 75,
+                    "copyrightId": 617010,
+                    "status": 1,
+                    "picId": 3398590445616581,
+                    "mark": 0
+                },
+                "duration": 261839,
+                "copyrightId": 617010,
+                "status": 0,
+                "alias": [
+                    "原唱：陈奕迅"
+                ],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 262144
+            },
+            {
+                "id": 94536,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 9253,
+                    "name": "Y100 (Evil版)",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1327017600000,
+                    "size": 46,
+                    "copyrightId": 7003,
+                    "status": 1,
+                    "picId": 109951163648184350,
+                    "alia": [
+                        "黄伟文大选-That's Y I'm Evil"
+                    ],
+                    "mark": 0
+                },
+                "duration": 286000,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 303285,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 27904047,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 10763,
+                        "name": "曾沛慈",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 2692225,
+                    "name": " 热门华语61",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1356969600004,
+                    "size": 31,
+                    "copyrightId": 0,
+                    "status": 2,
+                    "picId": 3285340745280610,
+                    "mark": 0
+                },
+                "duration": 265000,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 524288
+            },
+            {
+                "id": 65261,
+                "name": "浮夸 (2007 Live)",
+                "artists": [
+                    {
+                        "id": 2116,
+                        "name": "陈奕迅",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 6410,
+                    "name": "Eason Moving On Stage 1",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1209513600000,
+                    "size": 33,
+                    "copyrightId": 7003,
+                    "status": 3,
+                    "picId": 109951165621401890,
+                    "mark": 0
+                },
+                "duration": 293642,
+                "copyrightId": 7003,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 8192
+            },
+            {
+                "id": 1410033935,
+                "name": "浮夸（翻自 橙光音乐） ",
+                "artists": [
+                    {
+                        "id": 33603431,
+                        "name": "紀學",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 83886340,
+                    "name": "粤语",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1575789901371,
+                    "size": 6,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951164926374300,
+                    "mark": 0
+                },
+                "duration": 200136,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 440239249,
+                "name": "【二胡】浮夸",
+                "artists": [
+                    {
+                        "id": 1047093,
+                        "name": "永安二胡",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 34986062,
+                    "name": "永安二胡 2015演奏作品",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1451404800000,
+                    "size": 13,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951162816280740,
+                    "mark": 0
+                },
+                "duration": 289303,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 262144
+            },
+            {
+                "id": 1804288851,
+                "name": "我是歌手-浮夸（非歪 remix）",
+                "artists": [
+                    {
+                        "id": 37339733,
+                        "name": "非歪",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 97775923,
+                    "name": "民乐也疯狂",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1601568000000,
+                    "size": 9,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951165437404060,
+                    "mark": 0
+                },
+                "duration": 281772,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 131200
+            },
+            {
+                "id": 427016769,
+                "name": "浮夸(8bit remix)",
+                "artists": [
+                    {
+                        "id": 12072097,
+                        "name": "烦恼的夏天",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 34847381,
+                    "name": "浮夸",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1472181596079,
+                    "size": 2,
+                    "copyrightId": 0,
+                    "status": 1,
+                    "picId": 17648261137779856,
+                    "mark": 0
+                },
+                "duration": 187922,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 131072
+            },
+            {
+                "id": 1449821003,
+                "name": "浮夸 Grandiose",
+                "artists": [
+                    {
+                        "id": 29303235,
+                        "name": "Psy.P",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    {
+                        "id": 12002201,
+                        "name": "Higher Brothers",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 89754896,
+                    "name": "PSYLIFE.25",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1590508800000,
+                    "size": 0,
+                    "copyrightId": 1400821,
+                    "status": 1,
+                    "picId": 109951165005457260,
+                    "mark": 0
+                },
+                "duration": 177534,
+                "copyrightId": 1400821,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 262144
+            },
+            {
+                "id": 1394189760,
+                "name": "浮夸（翻自 群星） ",
+                "artists": [
+                    {
+                        "id": 33241162,
+                        "name": "飞机哥哥",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 81763747,
+                    "name": "周明智",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1569686400000,
+                    "size": 6,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951164375494580,
+                    "mark": 0
+                },
+                "duration": 290142,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 427016770,
+                "name": "浮夸(原谱交响)",
+                "artists": [
+                    {
+                        "id": 12072097,
+                        "name": "烦恼的夏天",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 34847381,
+                    "name": "浮夸",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1472181596079,
+                    "size": 2,
+                    "copyrightId": 0,
+                    "status": 1,
+                    "picId": 17648261137779856,
+                    "mark": 0
+                },
+                "duration": 187980,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 432430235,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 12063096,
+                        "name": "橙光音乐",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    {
+                        "id": 30046747,
+                        "name": "Christian A",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 34894544,
+                    "name": "橙光音乐集·辉煌篇1",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1475038589434,
+                    "size": 21,
+                    "copyrightId": 0,
+                    "status": 1,
+                    "picId": 109951164190423400,
+                    "mark": 0
+                },
+                "duration": 121521,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 131072
+            },
+            {
+                "id": 27907079,
+                "name": "浮夸(live版)",
+                "artists": [
+                    {
+                        "id": 5798,
+                        "name": "小肥",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    {
+                        "id": 2117,
+                        "name": "侧田",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 2693068,
+                    "name": "热门华语99",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1356969600004,
+                    "size": 32,
+                    "copyrightId": 0,
+                    "status": 2,
+                    "picId": 3298534884799094,
+                    "mark": 0
+                },
+                "duration": 272000,
+                "copyrightId": 13009,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 1390071878,
+                "name": "浮夸（翻自 群星） ",
+                "artists": [
+                    {
+                        "id": 32744285,
+                        "name": "徐世伟",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 80757038,
+                    "name": "呼吸决定",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1564900532248,
+                    "size": 2,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951164266192880,
+                    "mark": 0
+                },
+                "duration": 290849,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            },
+            {
+                "id": 1483841813,
+                "name": "浮夸",
+                "artists": [
+                    {
+                        "id": 36912788,
+                        "name": "王井然",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 95997248,
+                    "name": "初始DEMO",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1601273668517,
+                    "size": 2,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951165349860670,
+                    "mark": 0
+                },
+                "duration": 68048,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 8,
+                "rUrl": null,
+                "mark": 131136
+            },
+            {
+                "id": 1390291462,
+                "name": "浮夸（翻自 群星） ",
+                "artists": [
+                    {
+                        "id": 32431738,
+                        "name": "詩奇Meet.",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    }
+                ],
+                "album": {
+                    "id": 79494503,
+                    "name": "愿此间，山有木兮卿有意，昨夜星辰恰似你。",
+                    "artist": {
+                        "id": 0,
+                        "name": "",
+                        "picUrl": null,
+                        "alias": [],
+                        "albumSize": 0,
+                        "picId": 0,
+                        "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "img1v1": 0,
+                        "trans": null
+                    },
+                    "publishTime": 1559459710207,
+                    "size": 28,
+                    "copyrightId": 0,
+                    "status": 0,
+                    "picId": 109951164177171790,
+                    "mark": 0
+                },
+                "duration": 291024,
+                "copyrightId": 0,
+                "status": 0,
+                "alias": [],
+                "rtype": 0,
+                "ftype": 0,
+                "mvid": 0,
+                "fee": 0,
+                "rUrl": null,
+                "mark": 0
+            }
+        ],
+        "hasMore": true,
+        "songCount": 159
+    },
+    "code": 200
+}
